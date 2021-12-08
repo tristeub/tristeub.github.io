@@ -1,0 +1,98 @@
+
+html { 
+	background-image: url("images/background1.png") ;
+	background-color: #C41E07 ;
+	font-family: Arial Black, Liberation Sans;
+	color: white;
+
+}
+
+body {
+	background-image: url("images/legomovielogo.png") ;
+	background-repeat: no-repeat ;
+	background-attachment: fixed ;
+	}
+
+
+mark {
+	color:  white;
+	background-color: rgba(255, 255, 255, .2);
+	border: 5px solid rgba(255, 255, 255, .0);
+	border-radius: 30px ;
+	text-shadow: 0px 0px 10px black ;
+
+}
+
+
+mark1 {
+	color:  white;
+	background-color: rgba(255, 255, 255, .2);
+	border: 5px solid rgba(255, 255, 255, .0);
+	border-radius: 30px ;
+	text-shadow: 0px 0px 10px black ;
+
+}
+
+
+float {	
+	float: left ;
+
+}
+
+
+h1 {
+	text-align: center ;
+	font-size: 70px ;
+	color: white ;
+	text-transform : capitalize;
+
+}
+
+
+h2 { 
+	text-align: left ;
+	font-size: 45px ;
+	color: white ;
+	text-shadow: 0px 0px 10px black ;
+}
+
+h3 {
+	text-align: center ;
+	text-shadow: 0px 0px 10px black ;
+	font-size: 35px ;
+}
+
+h4 {
+	text-align: left ;
+	text-shadow: 0px 0px 10px black ;
+	font-size: 35px ;
+}
+
+.bloc1 {
+	border: 5px solid rgba(255, 255, 255, .0);
+	border-radius: 100px ;
+	background-color: rgba(255, 255, 255, .2);
+	color: white ;
+}
+
+
+.blocimage {
+	border: 5px solid rgba(255, 255, 255, .0);
+	background-color: rgba(255, 255, 255, .2);
+	text-align: center ;
+	color: white ;
+}
+ 
+ 
+.rouge {
+	color: #C41E07 ;
+	
+}
+
+
+.centrer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+	
+}
